@@ -27,8 +27,8 @@ This repository serves as a reference guide while I learn and explore Laravel. I
 
 ## 🧑‍💻 Maintained by
 **Alamin Miah**  
-📍 Fulbari, Kurigram, Bangladesh  
-🔗 [LinkedIn](https://linkedin.com/) | [Peerlist](https://peerlist.io/) *(add real links)*
+📍 Bangladesh  
+🔗 [LinkedIn](https://linkedin.com/alaminces6) | [Peerlist](https://peerlist.io/https://peerlist.io/alamin58)
 
 ---
 
